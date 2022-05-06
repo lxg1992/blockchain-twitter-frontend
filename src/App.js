@@ -7,7 +7,7 @@ import { ethers } from 'ethers';
 const App = () => {
   const [currentAccount, setCurrentAccount] = useState('');
 
-  const contractAddress = '0xFac3551E2f7eD654B5C541d76b27441d6D6E35bf';
+  const contractAddress = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
   const contractABI = abi;
 
   const checkIfWalletIsConnected = async () => {
