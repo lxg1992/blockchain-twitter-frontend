@@ -31,5 +31,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "To get started with this course, clone this repo and follow these commands:",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buildspace/waveportal-starter-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buildspace/waveportal-starter-project/issues"
+  },
+  "homepage": "https://github.com/buildspace/waveportal-starter-project#readme"
 }
